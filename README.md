@@ -1,4 +1,4 @@
-## 📚 Table of Contents
+## Table of Contents
 - [Math & Number Theory](#-math--number-theory)
 - [Graph Theory](#-graph-theory)
 - [Dynamic Programming](#-dynamic-programming)
