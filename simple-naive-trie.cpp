@@ -1,3 +1,4 @@
+// todo: test with a problem and loog for better implementations (trie implemented with array)
 class node
 {
 public:
